@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;firstapp/main.js&apos; to &apos;nodeserver.js&apos;" description="Rename resource &apos;main.js&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="main.js" name="nodeserver.js" stamp="1495612650577" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;firstapp/server.txt&apos; to &apos;server.js&apos;" description="Rename resource &apos;server.txt&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="server.txt" name="server.js" stamp="1495786651397" updateReferences="true"/>
+</session>

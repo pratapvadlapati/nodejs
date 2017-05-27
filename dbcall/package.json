@@ -1,0 +1,15 @@
+{
+  "name": "dbcall",
+  "version": "1.0.0",
+  "description": "to query db",
+  "main": "calldb.js",
+  "dependencies": {
+    "express": "^4.15.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pratap",
+  "license": "ISC"
+}

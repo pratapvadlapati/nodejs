@@ -1,0 +1,21 @@
+/**
+ * 
+ */
+/**
+ * 
+ */
+var http = require("http");
+var url= require("url");
+http.createServer(function (request,response){
+	
+	var queryString=url.parse(request.url,true).query;
+	
+	
+	response.writeHead(200);
+	response.end(queryString.name);
+	
+	
+}).listen(30006)
+
+console.log('we listen at http://localhost:30006?id=234&name=pratap');
+

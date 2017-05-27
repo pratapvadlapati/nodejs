@@ -1,0 +1,11 @@
+INDEX VERSION 1.3+D:\pendrive\workspace\dev\nodejs\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3829712382.index
+2618993281.index
+1724907811.index
+4194651551.index
+1345302021.index
+3815382066.index
+3278287855.index
+3987144035.index
+1141556698.index
+4212704223.index

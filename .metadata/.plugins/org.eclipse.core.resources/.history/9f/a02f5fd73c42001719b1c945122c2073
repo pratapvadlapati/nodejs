@@ -1,0 +1,25 @@
+/**
+ * 
+ */
+var http = require("http");
+var fs = require("fs");
+
+http.createServer(function(request, response){
+	console.log('Incomming url: ${request.url}');
+	
+	if(request.url.startsWith("/static/")){
+		fs.readFile(request.url.substr(1),function (error,data){
+			if(error){
+				console.log("file not found: + error");
+				response.StatusCode("404");
+				response.end();
+				return;
+			}
+		response.end(data);
+		});
+		return;
+	};
+	
+}).listen(3000,"192.168.225.1", function(){
+	console.log('server started');
+});

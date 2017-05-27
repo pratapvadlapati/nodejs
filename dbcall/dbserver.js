@@ -1,0 +1,66 @@
+/**
+ * 
+ */
+var express = require("express");
+var app = express();
+var url = require("url");
+
+//Creating Router() object
+
+var router = express.Router();
+
+// Provide all routes here, this is for Home page.
+
+router.get("/",function(req,res){
+	
+	router.use("/user/:id",function(req,res,next){
+		  console.log(req.params.id)
+		  if(req.params.id == 0) {
+		    res.json({"message" : "You must pass ID other than 0"});    
+		  }
+		  else next();
+		});
+	
+	var queryString=url.parse(req.url,true).query;
+
+	//response.end(queryString.product);
+	var product=(queryString.product);
+	var brand =(queryString.brand);
+	var type=(queryString.type);
+	console.log(product,brand,type);
+	res.writeHead(200);
+  
+	// Establishing database connection 
+	
+	var con = mysql.createConnection({
+  host: "localhost",
+  user: "yourusername",
+  password: "yourpassword",
+  database: "mydb"
+});
+
+	//querying the database
+	
+con.connect(function(err) {
+  if (err) throw err;
+  con.query("SELECT product=$product,brand=$brand,type=type FROM STOCK", function (err, result) {
+    if (err) throw err;
+    console.log(result);
+    response.end(result);
+  });
+});
+	
+});
+
+// Tell express to use this router with /api before.
+// You can put just '/' if you don't want any sub path before routes.
+
+app.use("/api",router);
+
+
+
+// Listen to this Port
+
+app.listen(9000,function(){
+  console.log("Live at Port 9000");
+});

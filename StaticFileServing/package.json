@@ -1,0 +1,16 @@
+{
+  "name": "staticfileserveing",
+  "version": "1.0.0",
+  "description": "to server static files to the browser",
+  "main": "fileServe.js",
+  "scripts": {
+    "test": "node fileServe.js"
+  },
+  "author": "@pratap",
+  "license": "ISC",
+  "dependencies": {
+    "cfenv": "^1.0.4",
+    "express": "^4.15.3",
+    "fs": "0.0.1-security"
+  }
+}

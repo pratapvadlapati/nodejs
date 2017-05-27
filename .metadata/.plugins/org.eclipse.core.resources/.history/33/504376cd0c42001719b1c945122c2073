@@ -1,0 +1,21 @@
+/**
+ * 
+ */
+var cfenv = require('cfenv');
+var express = require('express');
+var app = express();
+var appEnv = cfenv.getAppEnv()
+
+app.get('/',function(req,resp){
+	
+	
+	res.send('helloword');
+});
+
+app.listen(appEnv.port, appEnv.bind, function(){
+	util.log("Server starting on " + appEnv.url);
+};
+
+
+
+

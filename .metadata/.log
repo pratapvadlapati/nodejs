@@ -1,0 +1,315 @@
+!SESSION 2017-05-23 23:16:47.124 -----------------------------------------------
+eclipse.buildId=4.6.0.I20160606-1100
+java.version=1.8.0_131
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-05-23 23:20:53.305
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Pratapv'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.core.jobs 2 2 2017-05-23 23:26:01.119
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.epp.internal.logging.aeri.ide.server.mars.ServerProblemsHistory$UpdateIndexJob
+!SESSION 2017-05-24 08:03:37.801 -----------------------------------------------
+eclipse.buildId=4.6.0.I20160606-1100
+java.version=1.8.0_131
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-05-24 08:04:08.308
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Pratapv'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.jface.text 2 0 2017-05-24 08:05:53.239
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2017-05-24 08:05:53.240
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+!SESSION 2017-05-24 11:36:23.741 -----------------------------------------------
+eclipse.buildId=4.6.0.I20160606-1100
+java.version=1.8.0_131
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-05-24 12:02:28.732
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Pratapv'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.jface.text 2 0 2017-05-24 13:28:17.528
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2017-05-24 13:28:17.532
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.jface.text 2 0 2017-05-24 13:31:47.337
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2017-05-24 13:31:47.338
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+!SESSION 2017-05-24 20:00:24.939 -----------------------------------------------
+eclipse.buildId=4.6.0.I20160606-1100
+java.version=1.8.0_131
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -data D:\pendrive\workspace\dev\nodejs -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-05-24 20:00:43.129
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Pratapv'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.jface.text 2 0 2017-05-24 20:51:21.251
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2017-05-24 20:51:21.252
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.jface.text 2 0 2017-05-25 11:17:54.541
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2017-05-25 11:17:54.555
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+!SESSION 2017-05-26 13:45:02.888 -----------------------------------------------
+eclipse.buildId=4.6.0.I20160606-1100
+java.version=1.8.0_131
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -data D:\pendrive\workspace\dev\nodejs -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-05-26 13:45:20.195
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Pratapv'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2017-05-26 13:46:19.692 -----------------------------------------------
+eclipse.buildId=4.6.0.I20160606-1100
+java.version=1.8.0_131
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -data D:\pendrive\workspace\dev\nodejs -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-05-26 13:46:34.476
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Pratapv'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.jface.text 2 0 2017-05-26 16:29:16.228
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2017-05-26 16:29:16.228
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.jface.text 2 0 2017-05-26 23:16:56.942
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2017-05-26 23:16:56.943
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2017-05-27 01:09:26.869
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10001 2017-05-27 01:09:26.869
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2017-05-27 01:09:26.869
+!MESSAGE "Eclipse JSON Editors and Tools" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2017-05-27 01:09:26.869
+!MESSAGE "JST Server Adapters Extensions" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2017-05-27 01:09:26.869
+!MESSAGE "JavaScript Development Tools Chromium/V8 Remote Debugger" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2017-05-27 01:09:26.869
+!MESSAGE "Eclipse Web Developer Tools" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2017-05-27 01:09:26.869
+!MESSAGE "WST Server Adapters" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2017-05-27 01:09:26.869
+!MESSAGE "JavaScript Development Tools" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2017-05-27 01:09:26.869
+!MESSAGE "JavaScript Development Tools Chromium/V8 Remote Debugger" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2017-05-27 01:09:26.869
+!MESSAGE "Eclipse Web Developer Tools" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2017-05-27 01:09:26.869
+!MESSAGE "Eclipse Java Web Developer Tools" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2017-05-27 01:09:26.869
+!MESSAGE "Eclipse XML Editors and Tools" is already installed, so an update will be performed instead.
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2017-05-27 01:09:26.869
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2017-05-27 01:09:26.869
+!MESSAGE Software being installed: WST Server Adapter Plug-in Developer Resources 3.2.600.v201603031514 (org.eclipse.wst.server_adapters.sdk.feature.feature.group 3.2.600.v201603031514)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2017-05-27 01:09:26.870
+!MESSAGE Missing requirement: Jetty :: Webapp Application Support 9.3.5.v20151012 (org.eclipse.jetty.webapp 9.3.5.v20151012) requires 'package org.eclipse.jetty.http [9.3.5,9.3.6)' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2017-05-27 01:09:26.870
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-05-27 01:09:26.870
+!MESSAGE From: WST Server Adapters 3.2.403.v201508132126 (org.eclipse.wst.server_adapters.feature.feature.group 3.2.403.v201508132126)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-05-27 01:09:26.870
+!MESSAGE To: org.eclipse.jetty.webapp [9.3.5.v20151012]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2017-05-27 01:09:26.870
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-05-27 01:09:26.870
+!MESSAGE From: WST Server Adapter Plug-in Developer Resources 3.2.600.v201603031514 (org.eclipse.wst.server_adapters.sdk.feature.feature.group 3.2.600.v201603031514)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-05-27 01:09:26.870
+!MESSAGE To: org.eclipse.wst.server_adapters.feature.feature.group [3.2.403.v201508132126]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2017-05-27 01:09:27.008
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10001 2017-05-27 01:09:27.008
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2017-05-27 01:09:27.008
+!MESSAGE "Eclipse JSON Editors and Tools" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2017-05-27 01:09:27.008
+!MESSAGE "JST Server Adapters Extensions" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2017-05-27 01:09:27.008
+!MESSAGE "JavaScript Development Tools Chromium/V8 Remote Debugger" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2017-05-27 01:09:27.008
+!MESSAGE "Eclipse Web Developer Tools" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2017-05-27 01:09:27.008
+!MESSAGE "WST Server Adapters" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2017-05-27 01:09:27.008
+!MESSAGE "JavaScript Development Tools" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2017-05-27 01:09:27.008
+!MESSAGE "JavaScript Development Tools Chromium/V8 Remote Debugger" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2017-05-27 01:09:27.008
+!MESSAGE "Eclipse Web Developer Tools" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2017-05-27 01:09:27.008
+!MESSAGE "Eclipse Java Web Developer Tools" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2017-05-27 01:09:27.008
+!MESSAGE "Eclipse XML Editors and Tools" is already installed, so an update will be performed instead.
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2017-05-27 01:09:27.008
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2017-05-27 01:09:27.008
+!MESSAGE Software being installed: WST Server Adapter Plug-in Developer Resources 3.2.600.v201603031514 (org.eclipse.wst.server_adapters.sdk.feature.feature.group 3.2.600.v201603031514)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2017-05-27 01:09:27.008
+!MESSAGE Missing requirement: Jetty :: Webapp Application Support 9.3.5.v20151012 (org.eclipse.jetty.webapp 9.3.5.v20151012) requires 'package org.eclipse.jetty.http [9.3.5,9.3.6)' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2017-05-27 01:09:27.008
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-05-27 01:09:27.008
+!MESSAGE From: WST Server Adapters 3.2.403.v201508132126 (org.eclipse.wst.server_adapters.feature.feature.group 3.2.403.v201508132126)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-05-27 01:09:27.008
+!MESSAGE To: org.eclipse.jetty.webapp [9.3.5.v20151012]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2017-05-27 01:09:27.008
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-05-27 01:09:27.008
+!MESSAGE From: WST Server Adapter Plug-in Developer Resources 3.2.600.v201603031514 (org.eclipse.wst.server_adapters.sdk.feature.feature.group 3.2.600.v201603031514)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-05-27 01:09:27.008
+!MESSAGE To: org.eclipse.wst.server_adapters.feature.feature.group [3.2.403.v201508132126]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2017-05-27 01:11:27.258
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10054 2017-05-27 01:11:27.258
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2017-05-27 01:11:27.258
+!MESSAGE Software being installed: JavaScript Development Tools SDK 2.0.0.v201608301904 (org.eclipse.wst.jsdt_sdk.feature.feature.group 2.0.0.v201608301904)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2017-05-27 01:11:27.258
+!MESSAGE Software currently installed: JavaScript Development Tools 2.0.0.v201605311817 (org.eclipse.wst.jsdt.feature.feature.group 2.0.0.v201605311817)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2017-05-27 01:11:27.258
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-05-27 01:11:27.258
+!MESSAGE JavaScript Development Tools 2.0.0.v201603171403 (org.eclipse.wst.jsdt.feature.feature.jar 2.0.0.v201603171403)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-05-27 01:11:27.258
+!MESSAGE JavaScript Development Tools 1.6.201.v201512010225 (org.eclipse.wst.jsdt.feature.feature.jar 1.6.201.v201512010225)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-05-27 01:11:27.258
+!MESSAGE JavaScript Development Tools 2.0.0.v201605311817 (org.eclipse.wst.jsdt.feature.feature.jar 2.0.0.v201605311817)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-05-27 01:11:27.258
+!MESSAGE JavaScript Development Tools 2.0.0.v201604300029 (org.eclipse.wst.jsdt.feature.feature.jar 2.0.0.v201604300029)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-05-27 01:11:27.258
+!MESSAGE JavaScript Development Tools 2.0.0.v201608301904 (org.eclipse.wst.jsdt.feature.feature.jar 2.0.0.v201608301904)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-05-27 01:11:27.258
+!MESSAGE JavaScript Development Tools 1.6.201.v201601262245 (org.eclipse.wst.jsdt.feature.feature.jar 1.6.201.v201601262245)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-05-27 01:11:27.258
+!MESSAGE JavaScript Development Tools 2.0.200.v201612211424 (org.eclipse.wst.jsdt.feature.feature.jar 2.0.200.v201612211424)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2017-05-27 01:11:27.258
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-05-27 01:11:27.258
+!MESSAGE From: JavaScript Development Tools 2.0.0.v201605311817 (org.eclipse.wst.jsdt.feature.feature.group 2.0.0.v201605311817)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-05-27 01:11:27.259
+!MESSAGE To: org.eclipse.wst.jsdt.feature.feature.jar [2.0.0.v201605311817]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2017-05-27 01:11:27.259
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-05-27 01:11:27.259
+!MESSAGE From: JavaScript Development Tools 2.0.0.v201608301904 (org.eclipse.wst.jsdt.feature.feature.group 2.0.0.v201608301904)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-05-27 01:11:27.259
+!MESSAGE To: org.eclipse.wst.jsdt.feature.feature.jar [2.0.0.v201608301904]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2017-05-27 01:11:27.259
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-05-27 01:11:27.259
+!MESSAGE From: JavaScript Development Tools SDK 2.0.0.v201608301904 (org.eclipse.wst.jsdt_sdk.feature.feature.group 2.0.0.v201608301904)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-05-27 01:11:27.259
+!MESSAGE To: org.eclipse.wst.jsdt.feature.feature.group [2.0.0.v201608301904]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2017-05-27 01:11:27.261
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10054 2017-05-27 01:11:27.261
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2017-05-27 01:11:27.261
+!MESSAGE Software being installed: JavaScript Development Tools SDK 2.0.0.v201608301904 (org.eclipse.wst.jsdt_sdk.feature.feature.group 2.0.0.v201608301904)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2017-05-27 01:11:27.261
+!MESSAGE Software currently installed: JavaScript Development Tools 2.0.0.v201605311817 (org.eclipse.wst.jsdt.feature.feature.group 2.0.0.v201605311817)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2017-05-27 01:11:27.261
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-05-27 01:11:27.261
+!MESSAGE JavaScript Development Tools 2.0.0.v201603171403 (org.eclipse.wst.jsdt.feature.feature.jar 2.0.0.v201603171403)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-05-27 01:11:27.261
+!MESSAGE JavaScript Development Tools 1.6.201.v201512010225 (org.eclipse.wst.jsdt.feature.feature.jar 1.6.201.v201512010225)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-05-27 01:11:27.261
+!MESSAGE JavaScript Development Tools 2.0.0.v201605311817 (org.eclipse.wst.jsdt.feature.feature.jar 2.0.0.v201605311817)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-05-27 01:11:27.261
+!MESSAGE JavaScript Development Tools 2.0.0.v201604300029 (org.eclipse.wst.jsdt.feature.feature.jar 2.0.0.v201604300029)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-05-27 01:11:27.261
+!MESSAGE JavaScript Development Tools 2.0.0.v201608301904 (org.eclipse.wst.jsdt.feature.feature.jar 2.0.0.v201608301904)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-05-27 01:11:27.261
+!MESSAGE JavaScript Development Tools 1.6.201.v201601262245 (org.eclipse.wst.jsdt.feature.feature.jar 1.6.201.v201601262245)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-05-27 01:11:27.261
+!MESSAGE JavaScript Development Tools 2.0.200.v201612211424 (org.eclipse.wst.jsdt.feature.feature.jar 2.0.200.v201612211424)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2017-05-27 01:11:27.261
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-05-27 01:11:27.261
+!MESSAGE From: JavaScript Development Tools 2.0.0.v201605311817 (org.eclipse.wst.jsdt.feature.feature.group 2.0.0.v201605311817)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-05-27 01:11:27.261
+!MESSAGE To: org.eclipse.wst.jsdt.feature.feature.jar [2.0.0.v201605311817]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2017-05-27 01:11:27.261
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-05-27 01:11:27.261
+!MESSAGE From: JavaScript Development Tools 2.0.0.v201608301904 (org.eclipse.wst.jsdt.feature.feature.group 2.0.0.v201608301904)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-05-27 01:11:27.261
+!MESSAGE To: org.eclipse.wst.jsdt.feature.feature.jar [2.0.0.v201608301904]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2017-05-27 01:11:27.261
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-05-27 01:11:27.261
+!MESSAGE From: JavaScript Development Tools SDK 2.0.0.v201608301904 (org.eclipse.wst.jsdt_sdk.feature.feature.group 2.0.0.v201608301904)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-05-27 01:11:27.261
+!MESSAGE To: org.eclipse.wst.jsdt.feature.feature.group [2.0.0.v201608301904]
+!SESSION 2017-05-27 11:33:44.971 -----------------------------------------------
+eclipse.buildId=4.6.0.I20160606-1100
+java.version=1.8.0_131
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-05-27 11:34:04.585
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Pratapv'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.

@@ -1,0 +1,26 @@
+/**
+ * 
+ */
+/**
+ * 
+ */
+var http = require("http");
+var url= require("url");
+http.createServer(function (request,response){
+	
+	var queryString=url.parse(request.url,true).query;
+	
+	
+	response.writeHead(200);
+	//response.end(queryString.product);
+	var product=(queryString.product);
+	var brand =(queryString.brand);
+	var type=(queryString.type);
+	console.log(product,brand,type);
+	
+	
+	
+}).listen(30007)
+
+console.log('we listen at http://localhost:30007?product=mobile&brand=samsung&type=s8');
+

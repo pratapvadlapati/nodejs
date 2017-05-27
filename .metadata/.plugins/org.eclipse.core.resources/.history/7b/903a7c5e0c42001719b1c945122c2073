@@ -1,0 +1,17 @@
+/**
+ * 
+ */
+var express = require('express');
+var app = express();
+
+app.get('/',function(req,resp){
+	
+	
+	res.send('helloword');
+});
+
+app.listen(6789);
+console.log('Express server is running');
+app.end();
+
+
